@@ -6,7 +6,7 @@
     "main": "index.js",
     "author": "Luca B. <dntftggl@pm.me>",
     "license": "MIT",
-    "repository": "https://github.com/meetfranz/recipe-airtable",
+    "repository": "https://github.com/dontfeedthegoogle/franz-recipe-airtable",
     "config": {
       "serviceURL": "https://airtable.com/"
     }
