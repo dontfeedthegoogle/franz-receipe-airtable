@@ -1,0 +1,13 @@
+{
+    "id": "airtable",
+    "name": "Airtable",
+    "version": "1.0",
+    "description": "Airtable",
+    "main": "index.js",
+    "author": "Luca B. <dntftggl@pm.me>",
+    "license": "MIT",
+    "repository": "https://github.com/meetfranz/recipe-airtable",
+    "config": {
+      "serviceURL": "https://airtable.com/"
+    }
+  }
